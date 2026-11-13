@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+<title id="title">Julio Maculan — Hardware, with purpose.</title><desc id="desc">Navy banner with mint circuit traces. PCB design, embedded systems and Formula SAE.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1726"/><stop offset="1" stop-color="#142c36"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#91b8c9" opacity=".13"/></pattern></defs>
+<rect width="1280" height="340" rx="16" fill="url(#bg)"/><rect width="1280" height="340" rx="16" fill="url(#grid)"/>
+<g fill="none" stroke="#4ad8b0" stroke-width="2" opacity=".4"><path d="M890 0v63l44 44h140l50 50h156M1280 202h-178l-60-60H915l-45-45V0M1280 247h-220l-35-35h-88l-65 65H764M1280 287h-196l-40-40h-89l-67 67H726"/><path d="M1000 0v56l52 52h80l54 54h94M1160 0v73l48 48h72"/></g>
+<g fill="#0d202b" stroke="#64e0be" stroke-width="2"><circle cx="764" cy="277" r="6"/><circle cx="726" cy="314" r="6"/><circle cx="1000" cy="56" r="5"/><circle cx="1160" cy="73" r="5"/></g>
+<rect x="1028" y="174" width="112" height="112" rx="14" fill="#102c35" stroke="#4ad8b0" stroke-opacity=".65"/><text x="1084" y="245" fill="#8ceace" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" text-anchor="middle">JM</text>
+<rect x="54" y="51" width="34" height="4" rx="2" fill="#6ce4bf"/>
+<text x="54" y="91" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="3" fill="#8ceace">JULIO MACULAN</text>
+<text x="50" y="163" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-2" fill="#f3f7fb">Hardware, with purpose.</text>
+<text x="54" y="210" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#afc5d5">PCB design · Embedded systems · Formula SAE</text>
+<text x="54" y="286" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#87a3b5">FROM THE SCHEMATIC TO THE TRACK</text>
+</svg>
